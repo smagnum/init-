@@ -1,0 +1,2 @@
+apt-get install clusterssh
+cssh srazik@server1 srazik@server2 srazik@server3
